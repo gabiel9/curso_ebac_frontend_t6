@@ -1,16 +1,14 @@
-h1 {
-    color: green;
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
 }
 
-h2 {
-    color: green;
+header li {
+    display: inline;
 }
 
-#economy h2 {
-    color: blue;
+.conteiner{
+    width: 1366px;
+    margin: 0 auto 0 auto;
 }
-
-.creation-date {
-    color: #ccc;
-}
-
