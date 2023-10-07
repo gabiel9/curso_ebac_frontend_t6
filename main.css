@@ -5,7 +5,7 @@
 }
 
 body > header {
-    background-color: 2f3640;
+    background-color: #2f3640;
     padding: 16px 0;
     color: #f5f6fa;
 }
@@ -77,7 +77,7 @@ section h2,
     text-decoration: underline;
 }
 
-.articles artcile p,
+.articles article p,
 .articles article a {
     font-family: Arial, Helvetica, sans-serif ;
 }
